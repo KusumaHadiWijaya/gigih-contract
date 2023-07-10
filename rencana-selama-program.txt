@@ -3,4 +3,5 @@ nyari kerja
 * petani
 merantau
 *dalam negeri
+ - jakarta
 *luar negeri
