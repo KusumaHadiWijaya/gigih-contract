@@ -1,0 +1,6 @@
+gigih-contract
+pertama: memahami seliruh bahasa pemrograman yang diajarkan
+kedua  : belajar sunggu-sungguh, rutin melakukan praktik
+waktu  : samapai program selesai
+hasil  : membuat project berupa portofolio
+penilaian : berupa evaluasi dari hasil projec yang dibuat, dan pemahaman yang terukur
