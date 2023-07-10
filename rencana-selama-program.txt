@@ -5,3 +5,4 @@ merantau
 *dalam negeri
  - jakarta
 *luar negeri
+ - working in UK
